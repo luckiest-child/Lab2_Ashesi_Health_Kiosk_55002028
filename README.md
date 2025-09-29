@@ -1,1 +1,3 @@
-# Lab2_Ashesi_Health_Kiosk_55002028
+Name: Afia Nyarkoa Otieku-Boadu
+ID: 55002028
+Lab number 2
